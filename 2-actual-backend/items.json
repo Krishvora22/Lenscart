@@ -1,0 +1,113 @@
+{
+  "items": [
+    {
+      "id": "001",
+      "image": "data:image/png;base64,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",
+      "company": "Carlton London",
+      "item_name": "Rhodium-Plated CZ Floral Studs",
+      "original_price": 1045,
+      "current_price": 606,
+      "discount_percentage": 42,
+      "return_period": 14,
+      "delivery_date": "10 Oct 2023",
+      "rating": { "stars": 4.5, "count": 1400 },
+      "category": "men"
+    },
+
+    {
+      "id": "002",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk3tTu9bdXvxIV8_kR4nE5w4HZatrCgMrjrg&s",
+      "company": "CUKOO",
+      "item_name": "Women Padded Halter Neck Swimming Dress",
+      "original_price": 2599,
+      "current_price": 1507,
+      "discount_percentage": 42,
+      "return_period": 14,
+      "delivery_date": "10 Oct 2023",
+      "rating": { "stars": 4.3, "count": 24 },
+      "category": "women"
+    },
+
+    {
+      "id": "003",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFJkuM5PyL0w71NwMc1U8TiBnxTGjcO0OMyA&s",
+      "company": "NUEVOSDAMAS",
+      "item_name": "Women Red & White Printed A-Line Knee-Length Skirts",
+      "original_price": 1599,
+      "current_price": 495,
+      "discount_percentage": 69,
+      "return_period": 14,
+      "delivery_date": "10 Oct 2023",
+      "rating": { "stars": 4.1, "count": 249 },
+      "category": "kids"
+    },
+
+    {
+      "id": "004",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTebAPTb6miqdFmRvkU8kCttHSM7EEfDhAJAQ&s",
+      "company": "ADIDAS",
+      "item_name": "Indian Cricket ODI Jersey",
+      "original_price": 999,
+      "current_price": 999,
+      "discount_percentage": 0,
+      "return_period": 14,
+      "delivery_date": "10 Oct 2023",
+      "rating": { "stars": 5, "count": 10 },
+      "category": "men"
+    },
+
+    {
+      "id": "005",
+      "image": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//l/i/grey-transparent-gunmetal-grey-full-rim-round-lenskart-air-signia-la-e14958-c2-eyeglasses_g_3127_06_oct22.jpg",
+      "company": "Roadster",
+      "item_name": "Pure Cotton T-shirt",
+      "original_price": 1399,
+      "current_price": 489,
+      "discount_percentage": 65,
+      "return_period": 14,
+      "delivery_date": "10 Oct 2023",
+      "rating": { "stars": 4.2, "count": 3500 },
+      "category": "women"
+    },
+
+    {
+      "id": "006",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSocxGidxSlYDHcYdq6Wx1Edw5lT1hu6Prg0g&s",
+      "company": "Nike",
+      "item_name": "Men ReactX Running Shoes",
+      "original_price": 14995,
+      "current_price": 14995,
+      "discount_percentage": 0,
+      "return_period": 14,
+      "delivery_date": "10 Oct 2023",
+      "rating": { "stars": 0, "count": 0 },
+      "category": "kids"
+    },
+
+    {
+      "id": "007",
+      "image": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/480x480/9df78eab33525d08d6e5fb8d27136e95//l/i/grey-stone-full-rim-wayfarer-lenskart-hustlr-la-e15417-w-c26-eyeglasses_g_3295_30_07_2024.jpg",
+      "company": "The Indian Garage Co",
+      "item_name": "Men Slim Fit Regular Shorts",
+      "original_price": 1599,
+      "current_price": 639,
+      "discount_percentage": 60,
+      "rating": { "stars": 4.2, "count": 388 },
+      "category": "men"
+    },
+
+    {
+      "id": "008",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmiQolZSKNY6B3C6OAPhUdboinpZ-1B5--KA&s",
+      "company": "Nivea",
+      "item_name": "Men Fresh Deodrant 150ml",
+      "original_price": 285,
+      "current_price": 1420,
+      "discount_percentage": 50,
+      "return_period": 14,
+      "delivery_date": "10 Oct 2023",
+      "rating": { "stars": 4.2, "count": 5200 },
+      "category": "women"
+    }
+  ]
+}
