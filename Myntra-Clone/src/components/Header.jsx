@@ -1,6 +1,6 @@
-import { BsFillPersonFill } from "react-icons/bs";
-import { FaHeart } from "react-icons/fa";
-import { FaShoppingBag } from "react-icons/fa";
+// import { BsFillPersonFill } from "react-icons/bs";
+// import { FaHeart } from "react-icons/fa";
+// import { FaShoppingBag } from "react-icons/fa";
 import { Link } from "react-router-dom";
 import { useSelector } from "react-redux";
 
@@ -37,17 +37,17 @@ function Header() {
         </div>
         <div className="action_bar">
           <div className="action_container">
-            <BsFillPersonFill />
+            {/* <BsFillPersonFill /> */}
             <span className="action_name">Profile</span>
           </div>
 
           <div className="action_container">
-            <FaHeart />
+            {/* <FaHeart /> */}
             <span className="action_name">Wishlist</span>
           </div>
 
           <Link className="action_container" to="/bag">
-            <FaShoppingBag />
+            {/* <FaShoppingBag /> */}
             <span className="action_name">Bag</span>
             <span className="bag-item-count">{bag.length}</span>
           </Link>

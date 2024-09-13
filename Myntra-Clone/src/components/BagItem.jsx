@@ -1,4 +1,4 @@
-import { FaTrash } from "react-icons/fa";
+// import { FaTrash } from "react-icons/fa";
 import { useDispatch } from "react-redux";
 import { bagActions } from "../store/bagSlice";
 
@@ -36,7 +36,7 @@ function BagItem({ item }) {
         </div>
 
         <div className="remove-from-cart" onClick={handleOnClick}>
-          <FaTrash />
+          {/* <FaTrash /> */}
         </div>
       </div>
     </>

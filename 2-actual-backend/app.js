@@ -37,4 +37,6 @@ app.post('/items', async (req, res) => {
   res.status(201).json({ message: 'Stored new item.', item: newItem });
 });
 
-app.listen(2203);
+app.listen(2203, () => {
+  console.log("app is listing...");
+});
